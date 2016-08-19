@@ -7,6 +7,6 @@ Usage:
     cd node-react-template/
     npm install
     ./node_modules/webpack/bin/webpack.js --d
-    node server .js
+    node server.js
 
 Open http://localhost:3000 in browser
